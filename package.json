@@ -1,0 +1,26 @@
+{
+  "name": "socket_io_chat",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fphonor/socket_io_chat.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "fphonor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fphonor/socket_io_chat/issues"
+  },
+  "homepage": "https://github.com/fphonor/socket_io_chat#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.7.2"
+  }
+}
